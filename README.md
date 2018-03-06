@@ -6,6 +6,8 @@
 1. Identify how to create a pull request from one fork to another
 2. Identify how to add commits to an existing pull request
 
+##This is the code Kelsey changed to make a pull request
+
 ## Overview:
 
 The concept of a pull request is unique to Github. It is a request for the
